@@ -1,8 +1,10 @@
-<div align="center">
+<!-- 이 저장소(sehunkuim/sehunkuim)의 README가 곧 https://github.com/sehunkuim 프로필 상단에 표시됩니다. -->
 
 # Hi there! 👋 I'm **Sehun**
 
-<h3>LG Aimers 8기 · On-device EXAONE 경량화 · 🥈 2nd place</h3>
+<div align="center">
+
+**LG Aimers 8기** · On-device **EXAONE** 경량화 · **🥈 2nd place**
 
 <p>
 <a href="https://github.com/sehunkuim"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
