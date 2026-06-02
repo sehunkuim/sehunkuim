@@ -7,6 +7,12 @@
 - President of **A.ING**, a 140-member AI club (2026)
 - Founder and Team Lead of startup club team **EAO**
 
+
+## Tech Stack
+- Languages: Python, JavaScript, TypeScript
+- AI/ML: scikit-learn, PyTorch (torch), TensorFlow, CatBoost, Hugging Face, vLLM
+- Web/Backend: Next.js, Node.js, FastAPI, Genkit
+- Data/Infra: Supabase, Docker, GitHub Actions
 ## Build & Leadership
 - Built and launched the official A.ING website: https://aing.uk
 - Built and launched the EAO project (Xinote): https://xinote.ai
