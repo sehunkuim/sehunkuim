@@ -1,6 +1,6 @@
 # 김세훈 | Sehun Kim
 
-![LG Aimers Team Presentation](https://www.lgresearch.ai/data/upload/image/blog/sa_7d2039811.png)
+![LG Aimers Team Presentation](https://raw.githubusercontent.com/sehunkuim/sehunkuim/main/assets/sa_7d2039811.jpg)
 
 ## About
 - 서울과학기술대학교 인공지능응용학과 2학년
