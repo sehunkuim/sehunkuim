@@ -1,5 +1,6 @@
 # 김세훈 | Sehun Kim
 
+![Sehun main photo](https://raw.githubusercontent.com/sehunkuim/sehunkuim/main/assets/main_profile_photo_ot1.jpg)
 ![LG Aimers Team Presentation](https://raw.githubusercontent.com/sehunkuim/sehunkuim/main/assets/sa_7d2039811.jpg)
 
 ## About
