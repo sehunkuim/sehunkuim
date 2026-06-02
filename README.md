@@ -1,7 +1,25 @@
-# 김세훈 | Sehun Kim
 
-<img src="https://raw.githubusercontent.com/sehunkuim/sehunkuim/main/assets/main_profile_photo_ot1.jpg" width="360" alt="Sehun main photo" />
-<img src="https://raw.githubusercontent.com/sehunkuim/sehunkuim/main/assets/sa_7d2039811.jpg" width="360" alt="LG Aimers Team Presentation" />
+<div align="center">
+
+# Hi there! 👋 I'm Sehun Kim
+
+서울과학기술대학교 `인공지능응용학과` · AI/ML Engineer Track
+
+<a href="mailto:sehun7079@naver.com"><img src="https://img.shields.io/badge/Email-sehun7079%40naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/sehunkuim"><img src="https://img.shields.io/badge/GitHub-sehunkuim-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://aing.uk"><img src="https://img.shields.io/badge/A.ING-aing.uk-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://xinote.ai"><img src="https://img.shields.io/badge/Xinote-xinote.ai-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=cat&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+
+</div>
 
 ## About
 - 서울과학기술대학교 인공지능응용학과 2학년
