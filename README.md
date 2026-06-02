@@ -21,6 +21,11 @@
 
 </div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/sehunkuim/sehunkuim/main/assets/main_profile_photo_ot1.jpg" width="360" alt="Sehun main photo" />
+<img src="https://raw.githubusercontent.com/sehunkuim/sehunkuim/main/assets/sa_7d2039811.jpg" width="360" alt="LG Aimers Team Presentation" />
+</div>
+
 ## About
 - 서울과학기술대학교 인공지능응용학과 2학년
 - President of **A.ING**, a 140-member AI club (2026)
