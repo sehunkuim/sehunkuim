@@ -1,12 +1,24 @@
-# Sehun Kim
+# Hi, I am Sehun Kim
 
-안녕하세요.
+AI/ML engineer focused on efficient LLMs for real-world deployment.
 
-- AI/ML Engineer
-- LG Aimers 8기 2위
-- 관심 분야: LLM Alignment, Quantization, Inference
+## About
+- LG Aimers 8th hackathon: 2nd place (model lightweighting)
+- Interests: LLM alignment, quantization, and inference optimization
+- Main stack: Python, PyTorch, Hugging Face, CUDA, vLLM, Docker
+
+## Featured Work
+- [studio](https://github.com/sehunkuim/studio): project notes, experiments, and implementation details
+- [start-of-ai](https://github.com/sehunkuim/start-of-ai): learning journey and AI practice projects
+
+## Experience Snapshot
+- Built an on-device EXAONE lightweighting pipeline
+- Worked on DPO + LoRA tuning and GPTQ-based compression
+- Evaluated models with KMMLU and MMLU-Redux style benchmarks
 
 ## Links
 - GitHub: https://github.com/sehunkuim
-- Studio: https://github.com/sehunkuim/studio
-- Start of AI: https://github.com/sehunkuim/start-of-ai
+- Email: mailto:sehun7079@naver.com
+
+---
+Thanks for visiting my profile.
