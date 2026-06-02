@@ -16,6 +16,7 @@
 ## Build & Leadership
 - Built and launched the official A.ING website: https://aing.uk
 - Built and launched the EAO project (Xinote): https://xinote.ai
+- Built and deployed the partner organization website for **bunchang.co** (`Next.js`, `TypeScript`)
 
 ## Competition Highlights
 | Year | Competition | Result | Detail |
