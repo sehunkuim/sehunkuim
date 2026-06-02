@@ -17,16 +17,21 @@
 | 2026 | LG Aimers 8th LLM Lightweighting Hackathon | 🥈 2nd Place | [Solution](https://github.com/sehunkuim/lg-aimers-8th-solution) |
 | 2026 | Kaggle ML 2차 (Audio Classification) | 🥇 1 / 86 | [Solution](https://github.com/sehunkuim/kaggle-audio-classification-2026) |
 | 2026 | Kaggle ML 1차 (Bike Rental Demand Forecast) | 🥇 1 / 90 | [Solution](https://github.com/sehunkuim/kaggle-bike-rental-demand-forecast) |
+| 2026 | 제3회 국민대학교 AI빅데이터 분석 경진대회 | 🥈 2등 · 최우수상 | [Solution](https://github.com/sehunkuim/dacon-kookmin-comovement-solution) |
+| 2026 | 서울시립대 공개 AI 경진대회 | Dual-Tower 솔루션 | [Solution](https://github.com/sehunkuim/uos-soccer-dual-tower-solution) |
 
 ## Main Repositories
 - [LG Aimers 8th Final Solution](https://github.com/sehunkuim/lg-aimers-8th-solution)
 - [Kaggle Audio Classification 2026](https://github.com/sehunkuim/kaggle-audio-classification-2026)
 - [Kaggle Bike Rental Demand Forecast](https://github.com/sehunkuim/kaggle-bike-rental-demand-forecast)
+- [Kookmin Comovement Solution](https://github.com/sehunkuim/dacon-kookmin-comovement-solution)
+- [UOS Soccer Dual-Tower Solution](https://github.com/sehunkuim/uos-soccer-dual-tower-solution)
 - [studio](https://github.com/sehunkuim/studio)
 - [start-of-ai](https://github.com/sehunkuim/start-of-ai)
 
 ## Reference Links
 - LG Aimers official news: https://www.lgresearch.ai/news/view?seq=638
+- Kookmin leaderboard: https://dacon.io/competitions/official/236619/leaderboard
 - Kaggle Audio competition: https://www.kaggle.com/competitions/2026-1-2
 - Kaggle Bike Rental leaderboard: https://www.kaggle.com/competitions/bike-rental-demand-forecast-challenge/leaderboard
 
