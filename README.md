@@ -20,6 +20,37 @@
 | 2026 | Kaggle ML 1차 (Bike Rental Demand Forecast) | 🥇 **1등 / 90명** | [Solution](https://github.com/sehunkuim/kaggle-bike-rental-demand-forecast) |
 | 2026 | 서울시립대 공개 AI 경진대회 (Track1) | 🥈 **2등 / 1,652명** | [Solution](https://github.com/sehunkuim/uos-soccer-dual-tower-solution) |
 
+## Related Projects
+
+### 1) Qwen VL 4B QLoRA Fine-tuning
+- Model: `Qwen/Qwen3.5-4B` with QLoRA (rank 16, 2 epochs)
+- Validation set: 100 samples (teacher = `qwen3.5-flash`)
+- Quantitative gains:
+  - ROUGE-L F1: **0.225 -> 0.260** (`+0.035`, win-rate 69%)
+  - Token F1: **0.357 -> 0.413** (`+0.055`, win-rate 80%)
+  - BLEU-1: **0.399 -> 0.462** (`+0.063`, win-rate 80%)
+  - Hallucination heuristic: **32% -> 17%** (`-15pp`)
+
+![Qwen QLoRA benchmark](https://raw.githubusercontent.com/sehunkuim/sehunkuim/main/assets/project1_qwen_qlora_metrics.png)
+
+### 2) RAG + Reranker + Image-Routing Pipeline (OCR_VL23)
+- Pipeline: retrieval -> router/reranker -> answerer with selective vision attachment
+- Benchmark result: **101.0 / 102.0** aggregate score
+- Scenario-level behavior validated with multi-intent queries (summary, image focus, QA, quiz, notes)
+
+![RAG reranker benchmark](https://raw.githubusercontent.com/sehunkuim/sehunkuim/main/assets/project2_ocr_rag_reranker_benchmark.png)
+
+### 3) Layout Postprocessing with IoU-based Matching (OCR_VL23)
+- Applied IoU-based dedupe/matching in layout postprocessing and routing alignment
+- Quality snapshot from benchmark logs:
+  - Intent match: **100%**
+  - Vision-match rule pass: **91.7%** (11/12)
+  - No-hallucination rule pass: **100%**
+
+![IoU layout quality](https://raw.githubusercontent.com/sehunkuim/sehunkuim/main/assets/project3_iou_layout_quality.png)
+
+> Note: For `OCR_VL23` projects, only benchmark visuals/results are shown here. Source files are intentionally not uploaded.
+
 ## Main Repositories
 - [LG Aimers 8th Final Solution](https://github.com/sehunkuim/lg-aimers-8th-solution)
 - [Kookmin Comovement Solution](https://github.com/sehunkuim/dacon-kookmin-comovement-solution)
