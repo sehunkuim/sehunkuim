@@ -27,7 +27,7 @@
 </div>
 
 ## About
-- 서울과학기술대학교 인공지능응용학과 2학년
+- SeoulTech A.A.I 2nd grade
 - President of **A.ING**, a 140-member AI club (2026)
 - Founder and Team Lead of startup club team **EAO**
 - Built and launched the official A.ING website: https://aing.uk
