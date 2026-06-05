@@ -29,7 +29,7 @@
 ## About
 - SeoulTech A.A.I 2nd grade
 - President of **A.ING**, a 140-member AI club (2026)
-- Founder and Team Lead of startup club team **EAO**
+- Founder and Team Lead of startup club team **EAO** — **U300 (학생 창업유망팀 300+) 최종 합격** (2026)
 - Built and launched the official A.ING website: https://aing.uk
 - Built and launched the EAO project (Xinote): https://xinote.ai
 - Built and deployed the partner organization website for **bunchang.co** (`Next.js`, `TypeScript`)
@@ -37,6 +37,7 @@
 ## Competition Highlights
 | Year | Competition | Result | Detail |
 |---|---|---:|---|
+| 2026 | 학생 창업유망팀 300+ (U300) — Team EAO | ✅ **최종 합격** | [Xinote](https://xinote.ai) |
 | 2026 | LG Aimers 8기 모델 경량화 | 🥈 **2등 / 1,537명** | [Solution](https://github.com/sehunkuim/lg-aimers-8th-solution) |
 | 2026 | 제3회 국민대학교 AI빅데이터 분석 경진대회 | 🥈 **2등 / 1,803명** | [Solution](https://github.com/sehunkuim/dacon-kookmin-comovement-solution) |
 | 2026 | Kaggle Seoultech ML 2차 (Audio Classification) | 🥇 **1등 / 86명** | [Solution](https://github.com/sehunkuim/kaggle-audio-classification-2026) |
