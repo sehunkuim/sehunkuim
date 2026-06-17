@@ -53,6 +53,7 @@
 | RAG + Reranker + Image Routing (`OCR_VL23`) | [Repository](https://github.com/sehunkuim/ocr-vl23-rag-reranker-overview) | Aggregate score `101.0 / 102.0` | Stable multi-intent routing and high retrieval consistency on benchmark set |
 | IoU-based Layout Postprocessing (`OCR_VL23`) | [Repository](https://github.com/sehunkuim/ocr-vl23-iou-layout-overview) | Intent match `99.6%`, vision-match pass `91.7%` (11/12), no-hallucination pass `99.6%` | Layout alignment improved with IoU matching and deduped region routing |
 | DPO Preference Optimization (LLM) | [Repository](https://github.com/sehunkuim/dpo-preference-optimization) | Contest benchmark (non-reasoning): KMMLU `38.90%`, MMLU-Redux `40.38%` | `rewards/accuracies` `0.456 -> 0.635` (`+17.9pp`), `rewards/margins` `0.0015 -> 0.0737` (`+0.0722`) |
+| Lecture-Target Layout Fine-tuning (RT-DETR / `PP-DocLayout_plus-L`) | [Repository](https://github.com/sehunkuim/lecture-target-layout-finetuning) | 20-class layout COCO mAP@[.5:.95] `0.754`, AP@.50 `0.809` (held-out val) | mAP `+0.9pp`, AP@.50 `+3.1pp`; per-class `figure_title +17.7pp`, `doc_title +12.0pp`, `chart +8.7pp`, `algorithm +7.0pp` |
 
 > Note: For `OCR_VL23` projects, only benchmark visuals/results are shown here. Source files are intentionally not uploaded.
 
