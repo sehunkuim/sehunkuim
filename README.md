@@ -38,11 +38,13 @@
 | Year | Competition | Result | Detail |
 |---|---|---:|---|
 | 2026 | 학생 창업유망팀 300+ (U300) — Team EAO | ✅ **최종 합격** | [Xinote](https://xinote.ai) |
+| 2026 | 모두의 창업 | 🥈 **1차 서류 합격 200만원 지원** | [Xinote](https://xinote.ai) |
 | 2026 | LG Aimers 8기 모델 경량화 | 🥈 **2등 / 1,537명** | [Solution](https://github.com/sehunkuim/lg-aimers-8th-solution) |
 | 2026 | 제3회 국민대학교 AI빅데이터 분석 경진대회 | 🥈 **2등 / 1,803명** | [Solution](https://github.com/sehunkuim/dacon-kookmin-comovement-solution) |
 | 2026 | Kaggle Seoultech ML 2차 (Audio Classification) | 🥇 **1등 / 86명** | [Solution](https://github.com/sehunkuim/kaggle-audio-classification-2026) |
 | 2026 | Kaggle Seoultech ML 1차 (Bike Rental Demand Forecast) | 🥇 **1등 / 90명** | [Solution](https://github.com/sehunkuim/kaggle-bike-rental-demand-forecast) |
 | 2026 | 서울시립대 공개 AI 경진대회 (Track1) | 🥈 **6등 / 1,652명** | [Solution](https://github.com/sehunkuim/uos-soccer-dual-tower-solution) |
+
 
 
 ## Related Projects
