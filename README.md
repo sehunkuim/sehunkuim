@@ -31,7 +31,7 @@
 - President of **A.ING**, a 140-member AI club (2026)
 - Founder and Team Lead of startup club team **EAO** — **U300 (학생 창업유망팀 300+) 최종 합격** (2026)
 - Built and launched the official A.ING website: https://aing.uk
-- Built and launched the EAO project (Xinote): https://xinote.ai
+- Built and launched the EAO project
 - Built and deployed the partner organization website for **bunchang.co** (`Next.js`, `TypeScript`)
 
 ## Competition Highlights
