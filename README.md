@@ -52,6 +52,7 @@
 
 | Project | Link | Core Benchmark | Performance Gain |
 |---|---|---|---|
+| Xinote Model Training & Benchmarks | [Results](https://github.com/sehunkuim/xinote-model-benchmarks) | OCR · Formula · Layout · ASR · JEV, 59개 범위별 비교 | Loss·하이퍼파라미터·학습 전후 그래프 공개, 데이터·학습 코드·가중치 비공개 |
 | Qwen VL 4B QLoRA Fine-tuning | [Repository](https://github.com/sehunkuim/qwen-vl-4b-qlora-finetuning) | ROUGE-L F1 `0.260`, Token F1 `0.413`, BLEU-1 `0.462` | ROUGE-L `+0.035`, Token F1 `+0.055`, BLEU-1 `+0.063`, hallucination `-15pp` |
 | RAG + Reranker + Image Routing (`OCR_VL23`) | [Repository](https://github.com/sehunkuim/ocr-vl23-rag-reranker-overview) | Aggregate score `101.0 / 102.0` | Stable multi-intent routing and high retrieval consistency on benchmark set |
 | IoU-based Layout Postprocessing (`OCR_VL23`) | [Repository](https://github.com/sehunkuim/ocr-vl23-iou-layout-overview) | Intent match `99.6%`, vision-match pass `91.7%` (11/12), no-hallucination pass `99.6%` | Layout alignment improved with IoU matching and deduped region routing |
