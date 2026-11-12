@@ -43,6 +43,7 @@
 | 2026 | 제3회 국민대학교 AI빅데이터 분석 경진대회 | 🥈 **2등 / 1,803명** | [Solution](https://github.com/sehunkuim/dacon-kookmin-comovement-solution) |
 | 2026 | Kaggle Seoultech ML 2차 (Audio Classification) | 🥇 **1등 / 86명** | [Solution](https://github.com/sehunkuim/kaggle-audio-classification-2026) |
 | 2026 | Kaggle Seoultech ML 1차 (Bike Rental Demand Forecast) | 🥇 **1등 / 90명** | [Solution](https://github.com/sehunkuim/kaggle-bike-rental-demand-forecast) |
+| 2026 | 제3회 풍력발전량 예측 AI 경진대회 — BARAM 2026 | **Private 4등 / 1,622** | 알고리즘 · 사전 워크샵 · 정형 · 회귀 · 에너지 · 정산금 · NMAE |
 | 2026 | 서울시립대 공개 AI 경진대회 (Track1) | 🥈 **6등 / 1,652명** | [Solution](https://github.com/sehunkuim/uos-soccer-dual-tower-solution) |
 
 
